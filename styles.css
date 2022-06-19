@@ -1,0 +1,38 @@
+#frame {
+  position: absolute;
+  width: 720px;
+  height: 240px;
+  left: 720px;
+  top: 240px;
+}
+#frame1 {
+  position: absolute;
+  width: 960px;
+  height: 360px;
+  left: 0px;
+  top: 480px;
+}
+#frame2 {
+  position: absolute;
+  width: 720px;
+  height: 480px;
+  left: 0px;
+  top: 0px;
+  background-image: image-url('Frame2.png');
+}
+#frame3 {
+  position: absolute;
+  width: 720px;
+  height: 240px;
+  left: 720px;
+  top: 0px;
+  background-image: image-url('Frame3.png');
+}
+#frame4 {
+  position: absolute;
+  width: 480px;
+  height: 360px;
+  left: 960px;
+  top: 480px;
+  background-image: image-url('Frame4.png');
+}
